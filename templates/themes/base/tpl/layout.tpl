@@ -212,5 +212,3 @@
 {{ unset($is_user_auth) }}
 
 {{ $design->htmlFooter() }}
-
-1050
